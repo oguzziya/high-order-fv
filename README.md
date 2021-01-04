@@ -4,6 +4,6 @@ Repository for the seminar course *Fundamentals of Wave Simulation - Solving Hyp
 winter semester 2020.
 
 Code contains a solver for 1D advection equation and Burger's equation (not fully implemented yet) with Godunov's method. 
-Various flux limiters are available to test out their effects. For the more information on the theoretical background, 
+Various flux limiters are available to test out their effects. For more information on the theoretical background, 
 refer to the report.
 
